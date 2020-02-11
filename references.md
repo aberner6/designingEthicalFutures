@@ -65,60 +65,39 @@ But it’s increasingly clear that sympathy is not enough. It’s not only money
 ## Futurescaping + Speculative, Critical Design
 
 ### Future-ing Studios, People
-* Strelka Institute 
-    * https://strelka.com/en
-    * https://thenewnormal.strelka.com/research#projects
+* [Strelka Institute](https://strelka.com/en)
 
-* Adam Harvey
-    * https://ahprojects.com/
+* [Adam Harvey](https://ahprojects.com/)
 
-* Superflux
-    * http://superflux.in/#
-    * https://vimeo.com/128873380
+* [Superflux](http://superflux.in/#)
 
-* Automato
-    * http://automato.farm
+* [Automato](http://automato.farm)
 
-* Luke Sturgeon
-    * https://vimeo.com/lukesturgeon
+* [Luke Sturgeon](https://vimeo.com/lukesturgeon)
 
-* James Auger
-    * http://www.auger-loizeau.com/
+* [James Auger](http://www.auger-loizeau.com/)
 
-* Tega Brain
-    * http://tegabrain.com
+* [Tega Brain](http://tegabrain.com)
 
-* Natalie Jeremijenko
-    * https://en.wikipedia.org/wiki/Natalie_Jeremijenko
+* [Natalie Jeremijenko](https://en.wikipedia.org/wiki/Natalie_Jeremijenko)
 
-* Laura Watts
-    * https://sand14.com/
+* [Laura Watts](https://sand14.com/)
 
-* N.K. Jemisin
-    * https://www.stitcher.com/podcast/vox/the-ezra-klein-show/e/55964162
+* [N.K. Jemisin](https://www.stitcher.com/podcast/vox/the-ezra-klein-show/e/55964162)
 
-* Anab Jain
-    * https://www.ted.com/talks/anab_jain_a_sneak_preview_of_the_future?language=en
+* [Anab Jain](https://www.ted.com/talks/anab_jain_a_sneak_preview_of_the_future?language=en)
 
-* Liam Young
-    * https://www.youtube.com/watch?v=rE_c0hmx9Fg
+* [Liam Young](https://www.youtube.com/watch?v=rE_c0hmx9Fg)
 
-* Keller Easterling
-    * https://www.youtube.com/watch?v=_ocLtzcQ2rI
+* [Keller Easterling](https://www.youtube.com/watch?v=_ocLtzcQ2rI)
 
-* James Dator + Alternative Futures
-    * www.seameo.org/...01.../03_alternative%20futures%20by%20james%20dator.pdf
+* [James Dator + Alternative Futures](www.seameo.org/...01.../03_alternative%20futures%20by%20james%20dator.pdf)
 
-* Eames
-    * https://www.youtube.com/watch?v=0fKBhvDjuy0
+* [Eames](https://www.youtube.com/watch?v=0fKBhvDjuy0)
 
 ## List of methods
 https://docs.google.com/document/d/1VqiOdeTldMpc2eB2sXSXHxkKi04kFTokNC6OJlw58RM/edit?usp=sharing
-* Stories
-    * https://www.youtube.com/watch?v=oP3c1h8v2ZQ
-* A selection of Design Fiction references
-    * http://maxmollon.com/explorations/?cat=71
-* Speculative Design and its Audience
-    * https://medium.com/@JJCV/speculative-design-and-its-audience-effd3203fb81
-* What is Speculative / Critical / Fiction / Design?
-https://elviavasconcelosblog.wordpress.com/2017/07/23/part-3-what-is-speculative-critical-fiction-design/
+* [Stories](https://www.youtube.com/watch?v=oP3c1h8v2ZQ)
+* [A selection of Design Fiction references](http://maxmollon.com/explorations/?cat=71)
+* [Speculative Design and its Audience](https://medium.com/@JJCV/speculative-design-and-its-audience-effd3203fb81)
+* [What is Speculative / Critical / Fiction / Design?](https://elviavasconcelosblog.wordpress.com/2017/07/23/part-3-what-is-speculative-critical-fiction-design/)
