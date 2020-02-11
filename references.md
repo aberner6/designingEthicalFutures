@@ -1,19 +1,15 @@
 ## TOPIC OF MEMORY:
-### Moonwalking with Einstein
-http://www.capitalessence.com/blog/wp-content/uploads/2011/12/Moonwalking_with_Einstein_-_Foer__Joshua.pdf
+### [Moonwalking with Einstein] (http://www.capitalessence.com/blog/wp-content/uploads/2011/12/Moonwalking_with_Einstein_-_Foer__Joshua.pdf)
 If memory is our means of preserving that which we consider most valuable, it is also painfully linked to our own transience. When we die, our memories die with us. In a sense, the elaborate system of externalized memory we’ve created is a way of fending off mortality. It allows ideas to be efficiently passed across time and space, and for one idea to build on another to a degree not possible when a thought has to be passed from brain to brain in order to be sustained. The externalization of memory not only changed how people think; it also led to a profound shift in the very notion of what it means to be intelligent. Internal memory became devalued. Thanks to the plummeting price of digital storage, the increasing ubiquity of digital sensors, and better artificial intelligence to sort through the mess of data we’re constantly collecting, it’s becoming easier and easier to capture and remember ever more information from the world around us.
 
-### MEMEX
-https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+### [MEMEX](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 “Consider a future device …  in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.”
 
-### Would you take a pill to make you smarter?
-https://www.youtube.com/watch?v=sGeX2P1W7vY&feature=youtu.be
+### [Would you take a pill to make you smarter?](https://www.youtube.com/watch?v=sGeX2P1W7vY&feature=youtu.be)
 If you could take a pill to master a new language, would you? 
 Overriding effort and struggle. Flattening the beauty of being human - making sense of ourselves to one another by telling stories.
 
-### Human Enhancement
-https://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript
+### [Human Enhancement](https://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely/transcript)
 But we have to also consider that the CRISPR technology can be used for things like enhancement. Imagine that we could try to engineer humans that have enhanced properties, such as stronger bones, or less susceptibility to cardiovascular disease or even to have properties that we would consider maybe to be desirable, like a different eye color or to be taller, things like that. "Designer humans," if you will. Right now, the genetic information to understand what types of genes would give rise to these traits is mostly not known. But it's important to know that the CRISPR technology gives us a tool to make such changes, once that knowledge becomes available.
 
 ### Morality | Happiness
