@@ -29,13 +29,13 @@ This workshop has an experimental approach. We focus on building thought-provoki
 * Focus: Speculative Futures
 * Lecture and activities: 
     * Defining futurescaping, worldbuilding, scenario-making 
-    * Group work to create and communicate a speculative scenario using [future dreams](https://github.com/aberner6/designingEthicalFutures/blob/master/handouts/scenarios+dreams.pdf) [trends and signals](https://github.com/aberner6/designingEthicalFutures/blob/master/handouts/goal+steps+arc+angles+signals+world-building.pdf), visual techniques for presenting the world within the scenario exists (video, collage, writing+image examples shared)
+    * Group work to create and communicate a speculative scenario using [future dreams](https://github.com/aberner6/designingEthicalFutures/blob/master/handouts/scenarios+dreams.pdf) , [trends and signals](https://github.com/aberner6/designingEthicalFutures/blob/master/handouts/goal+steps+arc+angles+signals+world-building.pdf), visual techniques for presenting the world within the scenario exists (video, collage, writing+image examples shared)
 
 ### Day 2
 * Focus: Worries and Opportunities
 * Lecture and activities:
     * The role of speculative design in futurescaping
-    * How to continue to deepen initial speculation through multiple lenses on that future, creating implication trees with [handout] (https://github.com/aberner6/designingEthicalFutures/blob/master/handouts/implications.pdf)
+    * How to continue to deepen initial speculation through multiple lenses on that future, creating implication trees with [handout](https://github.com/aberner6/designingEthicalFutures/blob/master/handouts/implications.pdf)
     * Identify the scenarios with the most risk and use as an opportunity for design 
     * Brainstorm and prototype
 
@@ -49,19 +49,19 @@ This workshop has an experimental approach. We focus on building thought-provoki
 ### Day 4
 * Focus: Ethical Critique & Iteration
 * Lecture and activities:
-    * How to question and evaluate prototypes from an ethical perspective [handouts](https://github.com/aberner6/designingEthicalFutures/blob/master/handouts/ethical tools)
+    * How to question and evaluate prototypes from an ethical perspective [handouts](https://github.com/aberner6/designingEthicalFutures/blob/master/handouts/ethical_tools)
     * Testing and iterative prototyping
 
 ### Day 5:
 * Focus: Finessing & Storytelling
 * Lecture and activities:
-    * How to bring prototypes to life through stories and [system visualisations](https://github.com/aberner6/designingEthicalFutures/blob/master/handouts/visualising systems.pdf)
+    * How to bring prototypes to life through stories and [system visualisations](https://github.com/aberner6/designingEthicalFutures/blob/master/handouts/visualising_systems.pdf)
     * Preparing presentations and documenting process
-    * Summary of our experience (https://github.com/aberner6/designingEthicalFutures/blob/master/summary.pdf)
+    * [Summary of our experience](https://github.com/aberner6/designingEthicalFutures/blob/master/summary.pdf)
 
 ## Student Work
 
-* On the last day of the course, students presented their [projects](https://github.com/aberner6/designingEthicalFutures/blob/master/student_work.md)
+* On the last day of the course, students presented their [projects](https://github.com/aberner6/designingEthicalFutures/blob/master/student_work/index.html)
 
 ## Setting the Stage:
 Why ethical? We are firmly in the moment of not just “can we” do X design but rather, “should we”? Why not? People-centered research and design thinking approaches might help us along the way. But there is another approach we need to add in as well, of zooming in to our own pulse as designers, as well as jumping out of our bodies and zoom way out to the level of system-wide implications that we need to take into account when considering the answer to “should we”.
@@ -77,8 +77,8 @@ In this course (2019), we focus on memory within new technology. The brief is to
 
 ### Memory:
 We live our life based on the things we have learned and remembered and crucially, understood thus far. Literally. That is how a child learns to walk and talk. That is how when we are adults, we develop an awareness of ourselves and a consciousness around what and how we are doing. Another way we could think of this memory, processed, and how it bears upon the futures, is from a machine standpoint, that memory is data, bits. It is processed through a form of intelligence - whether a machine learning algorithm or another - and choices are made based on previous memories / history (whether of mistakes, successes). These choices are made from the point of view of an artificial intelligence that uses its capacity to machine-learn in order to make decisions about its / our futures. So what happens when these lines get fuzzy between the notion of memory as something inside of Me only, and memory as something that also exists in the memory of my devices, in the memory on the servers in the Clouds I connect to? 
-###Ethical decisions:
+### Ethical decisions:
 In order to learn from my memories, and try to make decisions about my futures, I would hope that at least my memories are “real.” We know the old quotation, that history repeats itself. So we should learn from history and not make the same mistakes. What happens when history is now being purposefully manipulated to present some alternate version of reality? What should we learn from in order to make our next decisions? Whether the “We” in this case is human or artificial, the question remains. And if my visual memory is stored in Google’s cloud, what kind of processes might determine the image that I (really) want as opposed to the image that I actually tried to put onto the cloud? We use machines that have been encoded with decisions around how we should look and therefore the “memory” of us. And the other thing is about the strategy behind it! Why did this machine seek to gather so much data about our faces? And how does this potentially interfere with the governance structures we know about?
-###Futures:
+### Futures:
 AI and decision-support systems are embedded in a wide array of social institutions, from influencing who is released from jail to shaping the news we see. For example, Facebook’s automated content editing system recently censored the Pulitzer-prize winning image of a nine-year old girl fleeing napalm bombs during the Vietnam War. The girl is naked; to an image processing algorithm, this might appear as a simple violation of the policy against child nudity. But to human eyes, Nick Ut’s photograph, “The Terror of War”, means much more: it is an iconic portrait of the indiscriminate horror of conflict, and it has an assured place in the history of photography and international politics. The removal of the image caused an international outcry before Facebook backed down and restored the image. “What they do by removing such images, no matter what good intentions, is to redact our shared history,” said the Prime Minister of Norway, Erna.
 
