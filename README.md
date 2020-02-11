@@ -61,7 +61,7 @@ This workshop has an experimental approach. We focus on building thought-provoki
 
 ## Student Work
 
-* On the last day of the course, students presented their [projects](https://github.com/aberner6/designingEthicalFutures/blob/master/student_work/index.html)
+* On the last day of the course, students presented their [projects](https://aberner6.github.io/defStudentWork/)
 
 ## Setting the Stage:
 Why ethical? We are firmly in the moment of not just “can we” do X design but rather, “should we”? Why not? People-centered research and design thinking approaches might help us along the way. But there is another approach we need to add in as well, of zooming in to our own pulse as designers, as well as jumping out of our bodies and zoom way out to the level of system-wide implications that we need to take into account when considering the answer to “should we”.
